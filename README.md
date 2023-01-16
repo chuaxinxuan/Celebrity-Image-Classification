@@ -42,3 +42,11 @@ The assignment involves building an algorithm using only variants of logistic re
 |assignment1_file_1.ipynb|Xin Xuan, Jie Yi|
 |assignment1_file_2.ipynb|Joey, Jie Yi|
 |assignment1_file_3.ipynb|Su Ning|
+
+<hr \>
+
+## Members
+* [Chua Xin Xuan](https://github.com/chuaxinxuan)
+* [Tan Jie Yi](https://github.com/jieyitann)
+* [Quek Su Ning](https://github.com/suning19)
+* [Joey Tan Xin Yi](https://github.com/joeytxy)
